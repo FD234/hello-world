@@ -1,5 +1,4 @@
 # hello-world
-# Practicing Github Flow
 
 Sumit Chhabra is President and CEO of FoodAllergy.App
 
