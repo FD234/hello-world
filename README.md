@@ -1,7 +1,11 @@
-# hello-world
+I am the founder and CEO of Flappd Tech Inc., a company dedicated to creating innovative solutions for individuals with food allergies and Celiac disease. Our key offerings include the [Food Allergy App](https://foodallergy.app), the Allergy Blog, and Flappd.
 
-Sumit Chhabra is President and CEO of FoodAllergy.App
+The Food Allergy App provides customizable food allergy cards, celiac cards, and similar tools to help users communicate their allergy needs effectively. Users can create custom food allergy travel cards in 133 languages or request professional translations.
 
-FoodAllergy.app helps indidiuals and families across the world manage Food Allergies or Celiac. It helps them get custom digital food allergy or gluten-free travel cards in 133 languages, and help finding allergy-friendly snack, candy, food brands that match their dietary needs.
+The Allergy Blog offers up-to-date insights, tips, and guides on managing food allergies and intolerances. It covers topics like gluten-free snacks, allergy-friendly recipes, and critical updates on allergen recalls, helping users stay informed and safe.
 
-Travelling with food allergeris, intolerance or dietery lifestyle and need a card, use FoodAllergy.App
+Flappd connects consumers and brands, enabling transparent information sharing and community support for allergy-friendly products. The platform offers tools for both consumers and brands to ensure safe and informed choices, promoting transparency and trust in the food industry.
+
+Join me on this journey to create a safer world for those with food allergies and Celiac disease.
+
+
